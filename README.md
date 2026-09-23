@@ -103,11 +103,6 @@ lib/
 
 The UI is built fully in Arabic with RTL layout support, using Google Fonts' Cairo typeface for readability. Loading states use shimmer-based skeleton placeholders instead of plain spinners, and empty/error states are handled through shared, reusable widgets for a consistent experience across screens.
 
-## 📸 Screenshots
-
-<img width="718" height="1600" alt="WhatsApp Image 2026-09-13 at 6 12 52 PM (1)" src="https://github.com/user-attachments/assets/b2478cbc-4d99-4eeb-b417-1929f7421f1d" />
-
-
 ## 🚀 Getting Started
 
 ### Prerequisites
